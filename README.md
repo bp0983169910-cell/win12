@@ -1,7 +1,7 @@
 <p align="center">
     <img src="./icon/windows12.svg" width="100" height="100">
 </p>
-<h1 align="center">Win12 Online</h1>
+<h1 align="center">Windows 12 ออนไลน์</h1>
 <p align="center" class="shields">
   <span href="https://github.com/win12-online/win12/issues" style="text-decoration:none">
     <img src="https://img.shields.io/github/issues/win12-online/win12.svg" alt="GitHub issues"/>
