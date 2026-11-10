@@ -212,4 +212,37 @@ We provide several groups for users and contributors to communicate.
 
 - [Microsoft Teams](https://teams.live.com/l/invite/FEA0yrNkE_bAn-ddwI)
 - [TailChat](https://nightly.paw.msgbyte.com/invite/PRdJ34zo) (experimental, inactive)
+- [Nerimity](https://nerimity.com/i/w2lvf) (experimental)tjy-gitnub([Bilibili](https://space.bilibili.com/2010692096/)), NB-group([Bilibili](https://space.bilibili.com/1570243738/)), 782([Bilibili](https://space.bilibili.com/1046361194/)) (all three were middle school students at the time)
+
+Project contributors: See [here](https://github.com/win12-online/win12/graphs/contributors) (Thank you to our excellent contributors!)
+
+## Support Us
+
+You can donate to our [Afdian account](https://afdian.com/a/qstudio)
+
+Special thanks to the following sponsors:
+
+- CursoR_光标（<https://afdian.com/a/cursor>）
+- Baymax（<https://afdian.com/u/a131cd504dea11eeb6be5254001e7c00>）
+
+## Contact Us
+
+### Email
+
+For partnership requests, media inquiries, complaints and reports, please contact the project owner: `starry-source@outlook.com`
+
+For intellectual property complaints, please CC `ipcomplaint@win12.tech` when sending to the above address.
+
+For community building, content maintenance, suggestions, and other usage issues, please contact `generalinquiry@win12.tech`
+
+Please include detailed contact information when writing so we can reply.
+
+**Note**: Emails ending with `win12.tech` are handled by @tangyuan0821.
+
+## Community Groups
+
+We provide several groups for users and contributors to communicate.
+
+- [Microsoft Teams](https://teams.live.com/l/invite/FEA0yrNkE_bAn-ddwI)
+- [TailChat](https://nightly.paw.msgbyte.com/invite/PRdJ34zo) (experimental, inactive)
 - [Nerimity](https://nerimity.com/i/w2lvf) (experimental)
